@@ -1,2 +1,2 @@
 # customizedHook
-Created with CodeSandbox
+将重复的逻辑挪出来放到单独的hook中实现代码复用，减少内存消耗
